@@ -1,0 +1,28 @@
+{
+  "name": "nft-smart_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsonajulor/NFT-smart_contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsonajulor/NFT-smart_contract/issues"
+  },
+  "homepage": "https://github.com/samsonajulor/NFT-smart_contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.3"
+  }
+}
