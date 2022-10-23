@@ -79,7 +79,6 @@ main()
 ```
 
 - Now create a .env file in the NFT-Tutorial folder and add the following lines. Follow the instructions below.
-```
 
 - Go to Quicknode and sign up for an account. Quicknode is a node provider that lets you connect to various different blockchains. We will be using it to deploy our contract through Hardhat. After creating an account, Create an endpoint on Quicknode, select Ethereum, and then select the Goerli network. Click Continue in the bottom right and then click on Create Endpoint. Copy the link given to you in HTTP Provider and add it to the .env file below for QUICKNODE_HTTP_URL
 
